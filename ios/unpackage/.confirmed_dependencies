@@ -1,0 +1,89 @@
+{
+  "index.html": {
+    "refer": [
+      "shareApp1_0_9/index.html",
+      "shareApp1.0/index.html",
+      "shareApp2.0/index.html"
+    ]
+  },
+  "shareApp1_0_9/productslist.html": {
+    "refer": [
+      "shareApp1_0_9/my_center.html",
+      "shareApp1_0_9/index.html",
+      "shareApp1_0_9/articleslist.html"
+    ]
+  },
+  "shareApp1_0_9/my_center.html": {
+    "refer": [
+      "shareApp1_0_9/login.html"
+    ]
+  },
+  "shareApp1_0_9/articleslist.html": {
+    "refer": [
+      "shareApp1_0_9/productslist.html",
+      "shareApp1_0_9/index.html"
+    ]
+  },
+  "shareApp1_0_9/index.html": {
+    "refer": [
+      "shareApp1_0_9/articleslist.html",
+      "shareApp1_0_9/productslist.html",
+      "shareApp1_0_9/my_center.html"
+    ]
+  },
+  "shareApp1_0_9/login.html": {
+    "refer": [
+      "shareApp1_0_9/index.html"
+    ]
+  },
+  "shareApp1.0/productslist.html": {
+    "refer": [
+      "shareApp1.0/index.html"
+    ]
+  },
+  "shareApp1.0/articleslist.html": {
+    "refer": [
+      "shareApp1.0/productslist.html"
+    ]
+  },
+  "shareApp1.0/index.html": {
+    "refer": [
+      "shareApp1.0/articleslist.html"
+    ]
+  },
+  "shareApp2.0/index.html": {
+    "refer": [
+      "shareApp2.0/articleslist.html",
+      "shareApp2.0/my_center.html"
+    ]
+  },
+  "shareApp2.0/articleslist.html": {
+    "refer": [
+      "shareApp2.0/index.html",
+      "shareApp2.0/productslist.html"
+    ]
+  },
+  "shareApp2.0/productslist.html": {
+    "refer": [
+      "shareApp2.0/articleslist.html",
+      "shareApp2.0/index.html",
+      "shareApp2.0/my_center.html"
+    ]
+  },
+  "shareApp2.0/my_center.html": {
+    "refer": [
+      "shareApp2.0/login.html"
+    ]
+  },
+  "shareApp2.0/login.html": {
+    "refer": [
+      "shareApp2.0/phone_binding.html",
+      "shareApp2.0/index.html"
+    ]
+  },
+  "shareApp2.0/phone_binding.html": {
+    "refer": [
+      "shareApp2.0/login.html"
+    ]
+  }
+}
